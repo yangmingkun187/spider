@@ -1,0 +1,23 @@
+{
+  "name": "node-spider",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "keywords": [],
+  "author": "cao yang",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "jquery": "^3.1.1",
+    "mongoose": "^4.7.2",
+    "request": "^2.75.0",
+    "superagent": "^3.1.0"
+  }
+}
